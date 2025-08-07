@@ -40,3 +40,22 @@ METFI-STEM-Projects/
 │   └── experimentos y resultados
 ├── Núcleos-Toroidales/
 │   └── prototipos, materiales, 3D
+
+## 👥 Autoría
+
+```text
+Proyecto impulsado por Javi, investigador independiente.
+Con la colaboración técnica de ChatGPT (OpenAI), como asistente experto en modelos electromagnéticos aplicados al entorno METFI.
+
+Este repositorio se publica bajo la licencia Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0).
+
+Eres libre de:
+✔️ Compartir — copiar y redistribuir el material en cualquier medio o formato  
+✔️ Adaptar — remezclar, transformar y construir a partir del material
+
+Bajo las siguientes condiciones:
+🔗 Atribución — Debes dar crédito adecuado al autor original.  
+🚫 No Comercial — No puedes usar el material con fines comerciales.  
+🔄 Compartir Igual — Si remezclas, transformas o construyes a partir del material, debes distribuir tu contribución bajo la misma licencia.
+
+Más información en: https://creativecommons.org/licenses/by-nc-sa/4.0/
